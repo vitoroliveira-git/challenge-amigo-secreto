@@ -49,10 +49,6 @@ Bem-vindo ao **Amigo Secreto**, uma aplicação simples e divertida que permite 
 
 - Navegador web atualizado (Google Chrome, Mozilla Firefox, Safari, etc.).
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 **Divirta-se organizando seu amigo secreto!** 🎉
